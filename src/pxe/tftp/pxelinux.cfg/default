@@ -1,0 +1,4 @@
+DEFAULT linux
+LABEL linux
+  KERNEL vmlinuz
+  APPEND initrd=initrd.img inst.ks=http://192.168.100.1/kickstart.cfg

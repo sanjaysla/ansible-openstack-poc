@@ -1,0 +1,5 @@
+zip_folder
+.ssh
+.secrets
+src/pxe/http/debian12.qcow2
+src/pxe/http/fedora42.qcow2
